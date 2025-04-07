@@ -1,0 +1,3 @@
+// devops-test configuration
+// author : admin
+// since : 2025-04-07
